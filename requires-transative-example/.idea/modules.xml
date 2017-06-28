@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/com.example.a/com.example.a.iml" filepath="$PROJECT_DIR$/com.example.a/com.example.a.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.example.b/com.example.b.iml" filepath="$PROJECT_DIR$/com.example.b/com.example.b.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.example.c/com.example.c.iml" filepath="$PROJECT_DIR$/com.example.c/com.example.c.iml" />
-      <module fileurl="file://$PROJECT_DIR$/requires-transative-example.iml" filepath="$PROJECT_DIR$/requires-transative-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requires-transitive-example.iml" filepath="$PROJECT_DIR$/requires-transitive-example.iml" />
     </modules>
   </component>
 </project>
