@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.example.app/com.example.app.iml" filepath="$PROJECT_DIR$/com.example.app/com.example.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.example.user/com.example.user.iml" filepath="$PROJECT_DIR$/com.example.user/com.example.user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.example.user.cassandra/com.example.user.cassandra.iml" filepath="$PROJECT_DIR$/com.example.user.cassandra/com.example.user.cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.example.user.jdbc/com.example.user.jdbc.iml" filepath="$PROJECT_DIR$/com.example.user.jdbc/com.example.user.jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-provider-example.iml" filepath="$PROJECT_DIR$/service-provider-example.iml" />
+    </modules>
+  </component>
+</project>
