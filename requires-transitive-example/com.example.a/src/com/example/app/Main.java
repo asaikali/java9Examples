@@ -1,3 +1,5 @@
+package com.example.app;
+
 import com.example.b.api.Bar;
 import com.example.c.api.Foo;
 
