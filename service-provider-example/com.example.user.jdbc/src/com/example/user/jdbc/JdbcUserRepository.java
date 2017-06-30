@@ -1,4 +1,4 @@
-package com.example.user.cassandra.jdbc;
+package com.example.user.jdbc;
 
 import com.example.user.db.User;
 import com.example.user.db.UserRepository;
