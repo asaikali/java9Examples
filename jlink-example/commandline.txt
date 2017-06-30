@@ -1,0 +1,9 @@
+mkdir -p mods/com.greetings
+javac -d mods/com.
+javac -d mods/com.greetings src/module-info.java src/com/example/Main.java
+java --module-path mods -m com.greetings/com.example.Main
+mkdir mlib
+jar --create --file=mlib/com.greetings.jar --main-class=com.example.Main -C mods/com.greetings .
+java -p mlib -m com.greetings
+jlink --module-path $JAVA_HOME/jmods:mlib --add-modules com.greetings --output greetingsapp
+bin/java -m com.greetings
